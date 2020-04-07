@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8610b61-7aba-4a28-b61c-d07145c7ea36" name="Default Changelist" comment="" />
+    <list default="true" id="c8610b61-7aba-4a28-b61c-d07145c7ea36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,11 +226,24 @@
       <updated>1586018693549</updated>
       <workItem from="1586018697037" duration="31180000" />
       <workItem from="1586200339289" duration="5000" />
+      <workItem from="1586255124186" duration="1003000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Add .gitignore&quot;">
+      <created>1586255252118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586255252118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add .gitignore&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add .gitignore&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="147" key="#Project_Structure" timestamp="1586108224241">
@@ -259,6 +274,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="518" y="320" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.920@0.0.1440.920" timestamp="1586019268370" />
+    <state x="345" y="55" key="CommitChangelistDialog2" timestamp="1586255250674">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="345" y="55" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1586255250674" />
     <state x="584" y="154" key="DetectedRootsChooserDialog" timestamp="1586030434438">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
